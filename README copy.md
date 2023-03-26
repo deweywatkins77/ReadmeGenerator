@@ -1,9 +1,9 @@
-# projectname
+# ReadmeGenerator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-proj desc
+Javascript program that asks the user questions regarding a github project and uses the answers to generatre a README.md file.
 
 ## Table of Contents 
 
@@ -24,12 +24,12 @@ proj desc
 To install necessary dependencies, run the following command:
 
 ```
-npm i inquirere
+npm i inquirer
 ```
 
 ## Usage
 
-kalsdfj;
+When running the program the README.md file will be overwritten if it exists.  Use node index.js to start the program.
 
 ## License
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-contr
+For any contributions send an email to deweywatkins77@gmail.com
 
 ## Tests
 
@@ -49,5 +49,5 @@ no test commands
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at username@gmail.com. You can find more of my work at [username](https://github.com/username/).
+If you have any questions about the repo, open an issue or contact me directly at deweywatkins77@gmail.com. You can find more of my work at [deweywatkins77](https://github.com/deweywatkins77/).
 
