@@ -29,7 +29,9 @@ npm i inquirer@8.2.4
 
 ## Usage
 
-README.md file will be overwritten. Inquirer 8.2.4 is required. Start the program by running node index.js.
+README.md file will be overwritten. Inquirer 8.2.4 is required. Start the program by running node index.js. After answering the questions a README.md will be generated.
+
+[This is a link for a HowTo video](https://watch.screencastify.com/v/T0iwehTlMBF1NqiFIkSh)
 
 ## License
 
